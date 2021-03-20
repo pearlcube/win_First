@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVzGRzC7eofc46NHwJlLPJllnQY64BQBKNiKXO5HRgBTThPmkb678jmCXt0834JCi9RxHHeGwjEufOpnVzaDfg==",
+  "success": true,
+  "projectFilePath": "D:\\katsui_kohei\\VisualStudio\\VB_WPF\\WpfApp1\\WpfApp1\\WpfApp1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\katsui_kohei\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\katsui_kohei\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512",
+    "C:\\Users\\katsui_kohei\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
